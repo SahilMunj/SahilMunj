@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&color=6C63FF&width=500&lines=Frontend+Developer;Full+Stack+Web+Development;Passionate+Problem+Solver;Always+learning+something+new" alt="Typing SVG" />
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/SahilMunj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sahil-munj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -60,9 +60,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| 🎯 **Real-time Chat App** | A real-time chat application with rooms, dark mode, emoji picker, file| `Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-Real-time: Socket.IO` | [View Live](https://real-time-chat-app-pazo.onrender.com/) |
+| 🎯 **Real-time Chat App** | A real-time chat application with rooms, dark mode, emoji picker, and file sharing | **Frontend:** HTML, CSS, JavaScript<br>**Backend:** Node.js, Express.js<br>**Real-time:** Socket.IO | [View Live](https://real-time-chat-app-pazo.onrender.com/) |
 
 ---
 
