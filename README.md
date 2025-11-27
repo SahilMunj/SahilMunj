@@ -61,6 +61,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | 🎯 **Real-time Chat App** | A real-time chat application with rooms, dark mode, emoji picker, and file sharing | **Frontend:** HTML, CSS, JavaScript<br>**Backend:** Node.js, Express.js<br>**Real-time:** Socket.IO | [View Live](https://real-time-chat-app-pazo.onrender.com/) |
+| 🎯 **E-placement Website** | A college Specific Website for Managing Placements | **Frontend:** HTML, CSS, JavaScript<br>**Backend:** Node.js, Express.js,email.js <br>**Database:** Firebase | [View Live](https://benevolent-chebakia-c10d0f.netlify.app//) |
 
 ---
 
@@ -71,7 +72,6 @@
 - ✅ Full Stack Web Development (MERN)  
 - ✅ Core Java Programming  
 - ✅ MySQL Database
-- ✅ CGPA: 10 cgpa
 
 ---
 ## 🤝 Connect with Me
